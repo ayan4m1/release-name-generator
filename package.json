@@ -10,6 +10,10 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.15.4",
+    "cheerio": "^1.0.0-rc.10",
+    "got": "^11.8.2",
+    "inquirer": "^8.2.0",
+    "jsonfile": "^6.1.0",
     "winston": "^3.3.3"
   },
   "devDependencies": {
